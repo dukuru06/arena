@@ -1,0 +1,9 @@
+node_modules/
+.expo/
+dist/
+web-build/
+*.log
+.env
+google-services.json
+server/uploads/*
+!server/uploads/.gitkeep
